@@ -1,0 +1,15 @@
+.btn {
+    margin: 0 2px;
+    background-color: #feffff;
+    border: solid #babdc0ba 1px;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+  
+
+td {
+    padding: 8px;
+    text-align: center;
+    border: 1px solid #babdc0ba;
+    border-radius: 5px;
+  }
